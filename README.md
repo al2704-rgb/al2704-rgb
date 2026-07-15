@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi there! I'm Trương Kim Ánh Linh
 
-<!--
-**al2704-rgb/al2704-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year FinTech student at UEH | Interested in AI, Business Analysis, Data Analytics & Project Management**
 
-Here are some ideas to get you started:
+I'm a curious and experience-driven person who enjoys exploring how technology, data, and business can work together to solve real-world problems. I'm currently looking for opportunities to learn, contribute, and gain hands-on experience in roles related to **AI, Business Analysis, Data Analytics, and Project Management**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interested in
+
+- 🤖 Artificial Intelligence & AI Applications
+- 📊 Data Analytics & Business Intelligence
+- 🔍 Business Analysis
+- 📌 Project Management
+
+## 🔗 Connect with me
+
+- 💼 LinkedIn: [Trương Kim Ánh Linh](https://www.linkedin.com/in/truong-kim-anh-linh-b7550a324/)
